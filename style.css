@@ -1,0 +1,61 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo-text{
+    font-family: 'Montserrat', sans-serif;
+}
+.header-text{
+    font-family: 'Bebas Neue', cursive;
+}
+.header-bg{
+    background-color: #FFF9F4;
+    background-image: url("icons/bg.png");
+    background-repeat: no-repeat;
+    background-position: left 445px top;
+}
+.header-price-text-color{
+    color: #FA804C;
+}
+.offcanvus-bg{
+    background-color: #f55799;
+}
+.header-text-color{
+    color:#363958;
+}
+.btn-color{
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    padding: 1.125rem 2.0625rem;
+    border-radius: .625rem;
+}
+
+.font-size{
+    font-size: 4rem;
+}
+.text-size{
+    width: 20rem;
+    
+}
+.p__textcolor{
+    color: #3E3E3E;
+}
+.img-size{
+    width: 311px;
+    height: 311px;
+}
+.width{
+    width: 370px;
+}
+.border-radius{
+    border-radius: 1.25rem;
+    -webkit-border-radius: 1.25rem;
+    -moz-border-radius: 1.25rem;
+    -ms-border-radius: 1.25rem;
+    -o-border-radius: 1.25rem;
+}
+.bg-img{
+    background: #F1F1F1;
+}
+.margin-top{
+    margin-top: 100px;
+}
